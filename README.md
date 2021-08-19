@@ -105,15 +105,15 @@ To run the App:
 
 How the App work
 
-# When you run the App will see the home Page will navigate to[http://localhost:3000/](http://localhost:3000/) as below:
-# You can Search for books via the ADD BOOK link below:
+## When you run the App will see the home Page will navigate to[http://localhost:3000/](http://localhost:3000/) as below:
+## You can Search for books via the ADD BOOK link below:
 ![Home Screen](src/icons/home.png "Home Screen")
 
-# Change book shelf through the Red button.
+## Change book shelf through the Green button.
 ![Home Screen](src/icons/screen3.png "Home Screen")
 
 
-# From search page you can search for books and add it to your read app home page using the Red button.
+## From search page you can search for books and add it to your read app home page using the Green button.
 ![Search Screen](src/icons/search.png "Search Screen")
 ![Search Screen](src/icons/screen2.png "Search Screen")
 
