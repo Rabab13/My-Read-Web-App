@@ -4,7 +4,7 @@ import Home from './Home'
 import Search from './Search'
 import './App.css'
 
-
+// some parts inspire from this repo https://github.com/udacity/reactnd-contacts-app
 
 class BooksApp extends Component {
   state = {books: []
@@ -40,3 +40,4 @@ render() {
         };
 }
 export default BooksApp
+
