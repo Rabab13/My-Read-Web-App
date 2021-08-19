@@ -5,6 +5,7 @@ import Search from './Search'
 import './App.css'
 
 // some parts inspire from this repo https://github.com/udacity/reactnd-contacts-app
+// and this link https://reactjs.org/docs/getting-started.html
 
 class BooksApp extends Component {
   state = {books: []
