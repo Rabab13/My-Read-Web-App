@@ -109,7 +109,7 @@ How the App work
 # You can Search for books via the ADD BOOK link below:
 ![Home Screen](src/icons/home.png "Home Screen")
 
-# Every book features Red button to change the shelf of the book.
+# Change book shelf through the Red button.
 ![Home Screen](src/icons/screen3.png "Home Screen")
 
 
