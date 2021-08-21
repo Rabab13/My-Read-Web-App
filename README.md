@@ -32,7 +32,7 @@ How the App work
 
 
 ### Resources and Documentation:
-* [Getting-started](https://reactjs.org/docs/getting-started.html
+* [Getting started](https://reactjs.org/docs/getting-started.html)
 * [Create-react-app Documentation](https://github.com/facebookincubator/create-react-app)
 * [React Router Documentation](http://knowbody.github.io/react-router-docs/)
 * [Project starter template](https://github.com/udacity/reactnd-project-myreads-starter)
